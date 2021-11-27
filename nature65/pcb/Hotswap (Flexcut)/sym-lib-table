@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "acheronSymbols")(type "KiCad")(uri "${KIPRJMOD}/acheron_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Nature65-rescue")(type "Legacy")(uri "${KIPRJMOD}/Nature65-rescue.lib")(options "")(descr ""))
+)

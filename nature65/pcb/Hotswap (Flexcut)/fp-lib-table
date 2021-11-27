@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "acheronKeyboardSwitches")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheronKeyboardSwitches.pretty")(options "")(descr "")(disabled))
+  (lib (name "sharkLogo")(type "KiCad")(uri "/home/alvaro/Desktop/AcheronProject/SharkPCB/sharkLogo/sharkLogo.pretty")(options "")(descr "")(disabled))
+  (lib (name "acheronSwitchSlots")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheronSwitchSlots.pretty")(options "")(descr "")(disabled))
+  (lib (name "acheronLogos")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheronLogos.pretty")(options "")(descr "")(disabled))
+  (lib (name "acheronMountingHoles")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheronMountingHoles.pretty")(options "")(descr "")(disabled))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/acheron_Hardware.pretty")(options "")(descr ""))
+)
