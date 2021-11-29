@@ -1104,19 +1104,19 @@
     )
   )
 
-  (junction (at 130.81 88.9) (diameter 0) (color 0 0 0 0))
-  (junction (at 60.96 83.82) (diameter 0) (color 0 0 0 0))
-  (junction (at 60.96 177.8) (diameter 0) (color 0 0 0 0))
-  (junction (at 140.97 88.9) (diameter 0) (color 0 0 0 0))
   (junction (at 120.65 104.14) (diameter 0) (color 0 0 0 0))
-  (junction (at 137.16 125.73) (diameter 0) (color 0 0 0 0))
-  (junction (at 149.86 133.35) (diameter 0) (color 0 0 0 0))
   (junction (at 63.5 83.82) (diameter 0) (color 0 0 0 0))
-  (junction (at 140.97 104.14) (diameter 0) (color 0 0 0 0))
   (junction (at 120.65 88.9) (diameter 0) (color 0 0 0 0))
-  (junction (at 137.16 142.24) (diameter 0) (color 0 0 0 0))
   (junction (at 130.81 104.14) (diameter 0) (color 0 0 0 0))
+  (junction (at 140.97 88.9) (diameter 0) (color 0 0 0 0))
+  (junction (at 130.81 88.9) (diameter 0) (color 0 0 0 0))
+  (junction (at 137.16 142.24) (diameter 0) (color 0 0 0 0))
+  (junction (at 137.16 125.73) (diameter 0) (color 0 0 0 0))
+  (junction (at 140.97 104.14) (diameter 0) (color 0 0 0 0))
   (junction (at 144.78 166.37) (diameter 0) (color 0 0 0 0))
+  (junction (at 60.96 177.8) (diameter 0) (color 0 0 0 0))
+  (junction (at 60.96 83.82) (diameter 0) (color 0 0 0 0))
+  (junction (at 149.86 133.35) (diameter 0) (color 0 0 0 0))
 
   (no_connect (at 78.74 153.67) (uuid 071522c0-d0ed-49b9-906e-6295f67fb0dc))
   (no_connect (at 48.26 107.95) (uuid 5ca4be1c-537e-4a4a-b344-d0c8ffde8546))
@@ -2868,77 +2868,71 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49726e"
       (reference "D41") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/f7fbd3b5-032f-432d-905b-a58584483414"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49725d"
       (reference "D42") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49725d"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497245"
       (reference "D43") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497245"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497233"
       (reference "D44") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/85542d2a-fc76-4e1d-8f2c-5644a9b0000b"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497224"
       (reference "D45") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497233"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497215"
       (reference "D46") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497224"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497206"
       (reference "D47") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497215"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971f5"
       (reference "D48") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497206"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971e6"
       (reference "D49") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971f5"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971d7"
       (reference "D50") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971e6"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971c6"
       (reference "D51") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971d7"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971b5"
       (reference "D52") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971c6"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971a4"
       (reference "D53") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971b5"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497193"
       (reference "D54") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971a4"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497182"
       (reference "D55") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497193"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497164"
       (reference "D56") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497182"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497154"
       (reference "D57") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497164"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497145"
       (reference "D58") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497154"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
       (reference "D59") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497145"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
       (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
       (reference "D61") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970f4"
       (reference "D62") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
-      (reference "D63") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970f4"
-      (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970e5"
-      (reference "D65") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D63") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005f2505eb"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
@@ -3037,7 +3031,7 @@
       (reference "MX29") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49734b"
-      (reference "MX30") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Rotated")
+      (reference "MX30") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970ab"
       (reference "MX31") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
@@ -3078,107 +3072,95 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497276"
       (reference "MX43") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/b62a1d59-30d5-407b-8374-bddde6b79791"
-      (reference "MX44") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497265"
-      (reference "MX45") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-Hotswap-ReversedStabilizers-Left")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/185d4030-3a8b-4359-853b-f92a24381a6d"
-      (reference "MX46") (unit 1) (value "ISO") (footprint "MX_Only:MXOnly-ISO-ROTATED-Hotswap-ReversedStabilizers-Left")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/54145b22-30b1-4239-9dcf-514ed6feede0"
-      (reference "MX47") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX44") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970cf"
-      (reference "MX48") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-Hotswap")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/a79e36c9-f30e-45a6-9855-1f670d294953"
-      (reference "MX49") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX45") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49723b"
-      (reference "MX50") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX46") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49722a"
-      (reference "MX51") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX47") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49721b"
-      (reference "MX52") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX48") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49720c"
-      (reference "MX53") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX49") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971fd"
-      (reference "MX54") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX50") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ec"
-      (reference "MX55") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX51") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971dd"
-      (reference "MX56") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX52") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ce"
-      (reference "MX57") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX53") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971bd"
-      (reference "MX58") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX54") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ac"
-      (reference "MX59") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX55") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49719b"
-      (reference "MX60") (unit 1) (value "1.75u") (footprint "MX_Only:MXOnly-1.75U-Hotswap")
+      (reference "MX56") (unit 1) (value "1.75u") (footprint "MX_Only:MXOnly-1.75U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49718a"
-      (reference "MX61") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX57") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f428b3f"
-      (reference "MX62") (unit 1) (value "2.75u") (footprint "MX_Only:MXOnly-2.75U-Hotswap")
+      (reference "MX58") (unit 1) (value "2.75u") (footprint "MX_Only:MXOnly-2.75U-Hotswap-ReversedStabilizers")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49716a"
-      (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX59") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49715a"
-      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX60") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49714b"
-      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX61") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49713c"
-      (reference "MX66") (unit 1) (value "6.25u") (footprint "MX_Only:MXOnly-6.25U-Hotswap-ReversedStabilizers")
+      (reference "MX62") (unit 1) (value "6.25u") (footprint "MX_Only:MXOnly-6.25U-Hotswap-ReversedStabilizers")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
-      (reference "MX67") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49710c"
-      (reference "MX68") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970fa"
-      (reference "MX69") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970eb"
-      (reference "MX70") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
+      (reference "MX66") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48b5b5"
-      (reference "MX71") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+      (reference "MX67") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48d3c5"
-      (reference "MX72") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX68") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48e6e4"
-      (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+      (reference "MX69") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f47830f"
-      (reference "MX74") (unit 1) (value "7u") (footprint "MX_Only:MXOnly-7U-Hotswap")
+      (reference "MX70") (unit 1) (value "7u") (footprint "MX_Only:MXOnly-7U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970b7"
-      (reference "MX75") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+      (reference "MX71") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f453977"
-      (reference "MX76") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX72") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4551d0"
-      (reference "MX77") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+      (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00005f258c77"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
