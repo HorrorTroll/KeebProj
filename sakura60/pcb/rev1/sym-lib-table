@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "yj-14015")(type "Legacy")(uri "E:/Duc/NRF52-Board/Library/schematics/yj-14015.lib")(options "")(descr ""))
-  (lib (name "BlueMacro-rescue")(type "Legacy")(uri "${KIPRJMOD}/BlueMacro-rescue.lib")(options "")(descr ""))
-  (lib (name "Sakura60-rescue")(type "Legacy")(uri "${KIPRJMOD}/Sakura60-rescue.lib")(options "")(descr ""))
-)
