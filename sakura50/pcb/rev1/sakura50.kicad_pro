@@ -371,7 +371,7 @@
       "idf": "",
       "netlist": "Sakura60.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sakura50.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
