@@ -2,14 +2,20 @@
 
 This repository is warehouse of my keyboard architecture.
 
-## Sakura60
+## Paws60
 
-![img]()
+### About Paws60
 
-### About Sakura60
+The Paws60 is 63 key (60%) keyboard. It is based on [Bakeneko60](https://github.com/kkatano/bakeneko-60). Thank you so much kkatano.😊
 
-The Sakura60 is 60-key (60%) ortholinear keyboard. It is based on [Preonic](https://github.com/olkb/olkb_parts) and [Rhymestone](https://github.com/marksard/Keyboards/tree/master/rhymestone). Thank you so much Jack Humbert and marksard.😊
+[Firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/horrortroll/paws60)
+[Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/paws60)
 
-[Build guide]()
+## Sakura50
+
+### About Sakura50
+
+The Sakura50 is 56 keys (50%) keyboard.
+
 [Firmware]()
-[Hardware data]()
+[Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/sakura50)
