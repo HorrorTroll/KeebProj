@@ -19,3 +19,30 @@ The Sakura50 is 56 keys (50%) keyboard.
 
 [Firmware]()  
 [Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/sakura50)
+
+## Keeb65 (Abandon)
+
+### About Keeb65
+
+The Keeb65 is 67 key (65%) keyboard. For many reason, it become abandon project.
+
+[Firmware]()  
+[Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/keeb65)
+
+## ToxicDog69
+
+### About ToxicDog69
+
+The ToxicDog69 is 69 keys Multi-layout (65%) keyboard.
+
+[Firmware]()  
+[Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/toxicdog69)
+
+## LazuliPad
+
+### About LazuliPad
+
+The LazuliPad is a Numpad Multi-layout keyboard.
+
+[Firmware]()  
+[Hardware data](https://github.com/HorrorTroll/Keeb_Project/tree/default/lazulipad)
