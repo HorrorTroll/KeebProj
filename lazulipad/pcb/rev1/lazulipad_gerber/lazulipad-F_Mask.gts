@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-1912-g359c99991b)*
-G04 #@! TF.CreationDate,2022-07-09T15:07:45+07:00*
+G04 #@! TF.CreationDate,2022-07-11T13:53:33+07:00*
 G04 #@! TF.ProjectId,lazulipad,6c617a75-6c69-4706-9164-2e6b69636164,1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.99.0-1912-g359c99991b)) date 2022-07-09 15:07:45*
+G04 Created by KiCad (PCBNEW (6.99.0-1912-g359c99991b)) date 2022-07-11 13:53:33*
 %MOMM*%
 %LPD*%
 G01*
