@@ -53,8 +53,8 @@ IRL images:
 - Bonus: Curved traces and teardrops
 
 ## Firmware
-- **Revision 1**:
-[QMK Firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/horrortroll/paws60)
+- **Revision 1**:  
+[QMK Firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/horrortroll/paws60)  
 [QMK Configurator](https://config.qmk.fm/#/horrortroll/paws60/LAYOUT_60_ansi_split_bs_rshift)
 
 - **Revision 2**:
